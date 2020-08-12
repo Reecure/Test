@@ -4,14 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MyFirstAppGit
+namespace TestApp
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello world");
-
+            Console.WriteLine(1+11);
         }
     }
 }

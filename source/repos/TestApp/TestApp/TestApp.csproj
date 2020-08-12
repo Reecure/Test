@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{87EAC308-3091-4FDD-A80D-CA53B1999305}</ProjectGuid>
+    <ProjectGuid>{464F3945-7E2D-4361-928A-71444970F244}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>MyFirstAppGit</RootNamespace>
-    <AssemblyName>MyFirstAppGit</AssemblyName>
+    <RootNamespace>TestApp</RootNamespace>
+    <AssemblyName>TestApp</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
